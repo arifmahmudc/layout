@@ -1,0 +1,31 @@
+.header, .hero, .body, .footer{
+	background-color: deepskyblue;
+	margin-bottom: 5px;
+}
+.bar{
+	background-color: gold;
+	margin-bottom: 5px;
+}
+.box{
+	min-height: 80px;
+	background-color: tomato;
+	margin-bottom: 5px;
+	font-size: 30px;
+}
+.color{
+	background-color: indigo;
+	color: white;
+}
+.color1{
+	background-color: limegreen;
+	color: white;
+}
+.color2{
+	background-color: mediumorchid;
+}
+.color3{
+	background-color: teal;
+}
+.color4{
+	background-color: palevioletred;
+}
